@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StupidApp/static/css/main.4dcdc56a.chunk.css",
+    "main.js": "/StupidApp/static/js/main.7586a2bb.chunk.js",
+    "main.js.map": "/StupidApp/static/js/main.7586a2bb.chunk.js.map",
+    "runtime-main.js": "/StupidApp/static/js/runtime-main.c27bcea1.js",
+    "runtime-main.js.map": "/StupidApp/static/js/runtime-main.c27bcea1.js.map",
+    "static/js/2.8e8c69e8.chunk.js": "/StupidApp/static/js/2.8e8c69e8.chunk.js",
+    "static/js/2.8e8c69e8.chunk.js.map": "/StupidApp/static/js/2.8e8c69e8.chunk.js.map",
+    "static/js/3.413427b7.chunk.js": "/StupidApp/static/js/3.413427b7.chunk.js",
+    "static/js/3.413427b7.chunk.js.map": "/StupidApp/static/js/3.413427b7.chunk.js.map",
+    "index.html": "/StupidApp/index.html",
+    "static/css/main.4dcdc56a.chunk.css.map": "/StupidApp/static/css/main.4dcdc56a.chunk.css.map",
+    "static/js/2.8e8c69e8.chunk.js.LICENSE.txt": "/StupidApp/static/js/2.8e8c69e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c27bcea1.js",
+    "static/js/2.8e8c69e8.chunk.js",
+    "static/css/main.4dcdc56a.chunk.css",
+    "static/js/main.7586a2bb.chunk.js"
+  ]
+}
